@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Text Bomber</string>
+    <string name="well">WELCOME</string>
+    <string name="edttext">Enter text that you want to print</string>
+    <string name="edtnum">Enter number</string>
+    <string name="result">Result</string>
+    <string name="genaret">GENERATE</string>
+    <string name="contact">SUPPORT</string>
+    <string name="share">SHARE</string>
+    <string name="share2">SHARE TO OTHER</string>
+    <string name="reset">RESET</string>
+    <string name="out">OUTPUT:-</string>
+    <string name="line">LINE BRAKE</string>
+</resources>
